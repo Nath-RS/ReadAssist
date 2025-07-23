@@ -1,0 +1,13 @@
+﻿<Window x:Name="WPFMain" x:Class="ReadAssist.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadAssist"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="717" FontFamily="Global User Interface" FontSize="18" WindowStyle="None">
+    <Grid>
+        <Label Content="Contagem de páginas:" HorizontalAlignment="Left" Margin="75,22,0,0" VerticalAlignment="Top" Width="201" Foreground="#FFEC530B" FontSize="18" FontFamily="Global User Interface" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
