@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadAssist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d73ee49bcc7c6e347f6125301d17a8303bad8889")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadAssist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadAssist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
